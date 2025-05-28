@@ -1,0 +1,381 @@
+/* Nav1 css code */
+.nav1{
+    background-color: #F7F6F4;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 5px;
+}
+
+.navchild1{
+    padding-top: 20px;
+}
+.navchild1 a {
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+    font-size: 12.9px;
+    margin-right: 48px;
+    
+}
+
+.navchild2{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.nav-number{
+    font-family: sans-serif;
+    font-size: 12.9px;
+    color: black;
+}
+
+.nav-number span{
+    color: #1DA1F2;
+}
+
+.whatsapp{
+    width: px;
+    height: 32px;
+    padding-top: 10px;
+}
+
+.navbutton{
+     padding-top: 7px;
+}
+.nigeriabutton{
+    border-radius: 40px;
+    padding: 5px 12px;
+    color: black;
+    background-color: transparent;
+    font-size: 12.9;
+    font-family: sans-serif;
+    width: 93.36px;
+    height: 38px;
+    border-color: rgba(255, 255, 255, 0.938);
+}
+.nig-logo{
+height: 10px;
+width: 16px;
+
+}
+
+/* content1 css code */
+
+.content1{
+    background-color: rgb(228, 218, 171);
+}
+
+.nav2{
+    display: flex;
+    padding: 20px  60px;
+    justify-content: space-between;
+}
+
+.printivo{
+    width: 140px;
+    height: 36.13px;
+}
+ 
+.nav2child a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-family: sans-serif;
+    margin: 10px;
+}
+
+.nav2child span{
+    color: #D77F81;
+}
+
+.cartlogo{
+    width: 35px;
+    height: 25px;
+}
+
+.Content1details{
+    display: flex;
+    padding-top:40px;
+    justify-content: space-between;
+}
+
+.contentgroup{
+    padding-left: 60px;
+}
+
+.Quality-prints{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 67.2px;
+    color: #384A62;
+    margin-bottom: 0px;
+}
+
+.shipped-doorstep{
+    font-family: sans-serif;
+    font-size: 24px;
+    color: #708095;
+    margin-top: 5px;
+}
+
+.What-would-you{
+    font-family: sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+.searchbar{
+    display: flex;
+    position: relative;
+    justify-content: right;
+}
+
+.searchinput{
+    width: 630px;
+    height: 86px;
+    padding: 0px 30px;
+    border-color: none;
+}
+
+.searchlogo{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    padding: 35px 20px;
+}
+
+.content1image{
+    width: 432px;
+    height: 332.73px;
+    justify-content: right;
+    padding-top: 70px;
+}
+
+/* Content2 Css Code */
+
+.content2{
+    padding: 60px 60px;
+}
+
+.Content2child1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Popular-Products{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: #384A62;
+}
+
+.Content2child1 a{
+    font-size: 16px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color:#D77F81;
+}
+
+.Productsgroups{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.Products{
+    margin-top: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgb(240, 238, 238);
+    padding-bottom: 30px;
+}
+
+.producting{
+    width: 285px;
+    height: 224px;
+}
+
+.pcontent{
+    font-family: sans-serif;
+    font-size: 16px;
+    padding-left: 20px;
+    color: #384A62;
+}
+
+.UPERCASE{
+    font-family: sans-serif;
+    font-size: 12.8px;
+    padding-left: 20px;
+    color: #708095;
+}
+
+.Price{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: black;
+    padding-left: 20px;
+}
+
+.Price span{
+    color: #708095;
+    font-size: 14.4px;
+}
+
+.Buttongroup{
+    padding-left: 20px;
+}
+
+.PoductsButton{
+    background-color: #D77F81;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    border-color: white;
+}
+
+/* Group Css Code */
+.Group{
+    padding:  10px 60px;
+    padding-bottom: 40px;
+}
+.bottomText{
+    font-size: 30px;
+    color: #384A62;
+}
+.grouptext2{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #506683;
+}
+
+/* Bottom Content Css Code */
+.Bottomcontent1{
+    padding: 60px 60px;
+    background-color: #EDF6FD;
+}
+
+.BoX{
+    display: flex;
+    gap: 20px;
+}
+.Box1{
+    background-color: white;
+    width: 366.67px;
+    height: 160px;
+    padding: 16px;
+    display: flex;
+}
+
+.Twitterbox{
+    border-radius: 100px;
+    width: 35px;
+    height: 20px;
+    margin-right: 35px;
+}
+
+.twitterimg{
+    width: 20px;
+    height: 20px;
+}
+.Box1text{
+    margin-top: 0px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #384A62;
+}
+
+.Box1text span{
+    color: #1DA1F2;
+}
+
+/* Bottomcontent2 css code */
+
+.Bottomcontent2{
+    padding: 60px 60px;
+}
+
+.BBox{
+    display: flex;
+    gap: 80px;
+}
+.Box2{
+    display: flex;
+    gap: 20px;
+}
+.box2text{
+    font-size: 17px;
+    font-family: sans-serif;
+    color: #0f233d;
+}
+
+.box2text span{
+    color: #677F9E;
+}
+
+/* Bottomcontent3 css code */
+
+.Bottomcontent3{
+    padding: 60px 60px;
+}
+.BBox3{
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.BBox3 a{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: #384A62;
+}
+
+/* footer css code */
+
+.footer{
+    background-color: #384A62;
+    padding: 60px 60px;
+    display: flex;
+    color: white;
+    gap: 130px;
+    
+}
+.FooterText{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.footerbox1 ul{
+    list-style: none;
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-left: -40px;
+    line-height: 25px;
+}
+
+.Followusimg{
+    display: flex;
+    gap: 20px;
+}
+
+.Payments-img{
+    width: 170px;
+    height: 17.03px;
+}
+
+.shipping-img{
+    width: 170px;
+    height: 18.2px;
+}
+
+/* CopyRight Css Code */
+
+.Copyright{
+    color: #384A62;
+    font-size: 16px;
+    font-family: sans-serif;
+    padding: 30px 0px;
+    background-color: #CBCACB;
+    text-align: center;
+}
